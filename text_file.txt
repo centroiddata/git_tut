@@ -1,4 +1,4 @@
 
 this is my first commit
 we're learning gi
-testing out git gifft
+testing out git gift
